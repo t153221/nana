@@ -1,2 +1,2 @@
 B
-This is Written in GitHub
+This is Written in GitHub.
